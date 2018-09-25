@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Iterable Enumerations'/>
+        <page name='Protocol Conformance'/>
+        <page name='Implicitly Unwrapped Optionals'/>
+        <page name='Hashing'/>
+        <page name='Warning and Error Directives'/>
+        <page name='Number Stringification'/>
+        <page name='Randomness'/>
+        <page name='Boolean Toggling'/>
+        <page name='Dynamic Member Lookup'/>
+        <page name='New Collection Methods'/>
+    </pages>
+</playground>
